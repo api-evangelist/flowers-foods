@@ -20,6 +20,8 @@ tags:
   - Food
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/flowers-foods
   - type: Website
     url: https://www.flowers-foods.com
   - type: Investor Relations
