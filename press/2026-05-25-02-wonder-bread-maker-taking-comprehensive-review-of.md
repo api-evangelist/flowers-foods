@@ -1,7 +1,9 @@
 ---
 title: Wonder bread maker taking 'comprehensive review' of ...
 url: https://www.fooddive.com/news/wonder-bread-maker-taking-comprehensive-review-of-business-amid-slump/812228/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowers Foods" press release artificial intelligence'
 position: 2
 source: serpapi-google

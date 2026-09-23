@@ -1,7 +1,9 @@
 ---
 title: FLOWERS FOODS, INC. TO ACQUIRE SIMPLE MILLS
 url: https://www.prnewswire.com/news-releases/flowers-foods-inc-to-acquire-simple-mills-302345725.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowers Foods" press release artificial intelligence'
 position: 1
 source: serpapi-google

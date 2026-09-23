@@ -1,7 +1,9 @@
 ---
 title: Flowers-Foods-2023-Corporate-Responsibility-Report.pdf
 url: https://flowersfoods.com/wp-content/uploads/2024/09/Flowers-Foods-2023-Corporate-Responsibility-Report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowers Foods" press release artificial intelligence'
 position: 4
 source: serpapi-google
